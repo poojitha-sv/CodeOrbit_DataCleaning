@@ -1,0 +1,11 @@
+CustomerID,Name,Email,Phone,SignupDate,City,PurchaseAmount
+1,John Smith,john.smith@email.com,123-456-7890,2023-01-15,New York,250.5
+2,Jane Doe,jane.doe@email.com,123-456-7891,2023-01-16,Los Angeles,300.0
+3,Mike Johnson,mike.j@email.com,Missing,2023-01-17,Chicago,295.0
+4,Sarah Williams,sarah.w@email.com,123-456-7893,2023-01-18,Houston,150.75
+5,Unknown,tom.brown@email.com,123-456-7894,2023-01-19,Phoenix,400.0
+6,Emily Davis,emily.davis@email.com,123-456-7895,2023-01-20,Philadelphia,275.25
+7,Chris Wilson,chris.w@email.com,123-456-7896,Missing,San Antonio,295.0
+8,Anna Taylor,anna.taylor@email.com,123-456-7897,2023-01-22,San Diego,325.0
+9,David Lee,david.lee@email.com,123-456-7898,2023-01-23,Dallas,290.0
+10,Laura Martin,laura.m@email.com,123-456-7899,2023-01-24,Austin,310.5
